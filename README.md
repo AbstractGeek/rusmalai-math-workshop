@@ -6,8 +6,8 @@ Basic math workshop @ ncbs
 Outline/breakdown for the module on Probability & Statistics:
 
 * Day 1: Revisiting the basics
-	* The basics: premise and axioms of probability
-	* Formulating problems in the mathematical framework: coins, dice, cards
+	* The premise of probability
+	* Writing numbers for words for simple problems: coins, dice, cards
 	* Conditionality, Dependence and Independence of events
 	* Understanding some examples from biology
 
@@ -18,8 +18,12 @@ Outline/breakdown for the module on Probability & Statistics:
 	* The basic idea of Statistical tests
 
 * Day 3: Bayesian approach to probability
-	* Bayesian method
-	* posterior/prior distribution
+	* Bayesian method with examples
+	* posterior/prior distribution with examples
+	* Examples and implementation of Bayesian methods
+	* Bootstrap methods and highlight some problems
+
+* Day 4: Maximum Likelihood Estimation, Maximum Aposteriori Probability and practical uses of them 
 
 
 ## Linear Algebra
