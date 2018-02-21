@@ -6,7 +6,7 @@ title:              'RUSMALAI Math Workshop'
 tagline:             '(Informal)'
 url:                 'https://abstractgeek.github.io/rusmalai-math-workshop/'
 paginate:            1
-baseurl:             ""
+baseurl:             "https://abstractgeek.github.io/rusmalai-math-workshop/"
 
 markdown:           kramdown
 
