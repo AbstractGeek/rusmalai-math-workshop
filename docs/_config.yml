@@ -1,30 +1,33 @@
-###########
-# site.title, site.url, site.author.name
+# Permalinks
+permalink:           pretty
 
-title:   'RUSMALAI Math Workshop'
-author:
-  name:  'AbstractGeek'
+# Setup
+title:              'RUSMALAI Math Workshop'
+tagline:             '(Informal)'
+url:                 'https://abstractgeek.github.io/rusmalai-math-workshop/'
+paginate:            1
+baseurl:             ""
 
-## note:
-#  use site.path in your templates to make it work for both protocols e.g. http and https
-#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-url:  'https://abstractgeek.github.io/rusmalai-math-workshop/'
+markdown:           kramdown
 
-
-########
-# more settings
-
-markdown: kramdown
-
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir: css
-  style:    expanded
+  sass_dir:          _sass
+  style:            :compressed
 
-permalink: /:title.html
+# About/contact
+author:
+  name:              AbstractGeek
+  url:               https://abstractgeek.github.io/
 
-exclude:
-- README.md
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/AbstractGeek/rusmalai-math-workshop
 
-
-safe: true
-lsi: false
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
