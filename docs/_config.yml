@@ -6,7 +6,7 @@ title:              'RUSMALAI Math Workshop'
 description:         'Informal math workshop @ NCBS'
 url:                 'https://abstractgeek.github.io/rusmalai-math-workshop/'
 paginate:            5
-baseurl:             "https://abstractgeek.github.io/rusmalai-math-workshop/"
+baseurl:             ""
 twitter_username:    abstractgeek42
 github_username:    abstractgeek42
 markdown:           kramdown
