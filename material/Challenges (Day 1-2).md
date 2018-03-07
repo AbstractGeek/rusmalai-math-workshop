@@ -16,15 +16,17 @@ Feel free to try out any, all or none of the exercises below. If you do try some
     - quantitative and/or simulations
     - if you increase the window of time, what happens? what dist look like and why?
 
-3. What is mean/median/mode:
-    - bimodal dist
+3. What is mean/median/mode for: 
+    - a [bimodal distribution] (https://en.wikipedia.org/wiki/Multimodal_distribution)
     - density chart on a random shape
-    - uniform distribution (go back to the dice question) - qualitatively
+    - uniform distribution (go back to the dice question)
     - uniform, Gaussian  (simulate them and find the mean/median/mode?)
 
-4. When not to use "mean"
+Sorry for the lack of detail. We are unable to attach images successfully on the website. So we are resorting to providing (hyper)links to the terms.
 
-1. Let's say you and Charles Xavier, who claims to be read minds :roll_eyes:, sit down face-to-face to resolve his [chutzpah](https://en.wikipedia.org/wiki/Chutzpah) once and for all. This is how you go about doing it:
+4. When not to use "mean"? 
+
+1. Let's say you and Charles Xavier, who claims to read minds :roll_eyes:, sit down face-to-face to resolve his [chutzpah](https://en.wikipedia.org/wiki/Chutzpah) once and for all. This is how you go about doing it:
     - you have a deck of cards in front of you and so does Charles
     - you pick out a card, look at the card and place it face down just beside the deck
     - Charles reads your mind :roll_eyes: and picks out the same card from his deck and places just beside it
