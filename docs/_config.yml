@@ -1,30 +1,21 @@
-###########
-# site.title, site.url, site.author.name
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-title:   'RUSMALAI Math Workshop'
-author:
-  name:  'AbstractGeek'
+# Site settings
+title: RUSMALAI Math Workshop
+email: abstractgeek@outlook.com
+description: Informal math workshop @ NCBS
+baseurl: "/rusmalai-math-workshop" # the subpath of your site, e.g. /blog
+url: "https://abstractgeek.github.io" # the base hostname & protocol for your site
+twitter_username: abstractgeek42
+github_username: abstractgeek42
+paginate: 5
+theme-dark: false #Set to true to change to dark website theme
 
-## note:
-#  use site.path in your templates to make it work for both protocols e.g. http and https
-#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-url:  'https://abstractgeek.github.io/rusmalai-math-workshop/'
-
-
-########
-# more settings
-
+plugins: [jekyll-paginate, kramdown]
+# Build settings
 markdown: kramdown
-
-sass:
-  sass_dir: css
-  style:    expanded
-
-permalink: /:title.html
-
-exclude:
-- README.md
-
-
-safe: true
-lsi: false
