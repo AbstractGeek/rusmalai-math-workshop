@@ -1,31 +1,21 @@
-# Permalinks
-permalink:           pretty
-
-# Setup
-title:              'RUSMALAI Math Workshop'
-description:         'Informal math workshop @ NCBS'
-url:                 'https://abstractgeek.github.io/rusmalai-math-workshop/'
-paginate:            5
-baseurl:             ""
-twitter_username:    abstractgeek42
-github_username:    abstractgeek42
-markdown:           kramdown
-
-# Assets
+# Welcome to Jekyll!
 #
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# About/contact
-author:
-  name:              AbstractGeek
-  url:               https://abstractgeek.github.io/
-
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/AbstractGeek/rusmalai-math-workshop
+# Site settings
+title: RUSMALAI Math Workshop
+email: abstractgeek@outlook.com
+description: Informal math workshop @ NCBS
+baseurl: "/rusmalai-math-workshop" # the subpath of your site, e.g. /blog
+url: "https://abstractgeek.github.io" # the base hostname & protocol for your site
+twitter_username: abstractgeek42
+github_username: abstractgeek42
+paginate: 5
+theme-dark: false #Set to true to change to dark website theme
 
 plugins: [jekyll-paginate, kramdown]
+# Build settings
+markdown: kramdown
