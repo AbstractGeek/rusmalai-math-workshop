@@ -9,18 +9,18 @@ Feel free to try out any, all or none of the exercises below. If you do try some
   - so on for n>2
  
    What's the average number of matchings? What is the average proportion of matchings?
- $$ \text{avg prop of matchings} = \frac{\text{average number of matchings}}{\text{total no. of nucleotides}} $$
+avg proportion of matchings = (avg number of matchings) / (total no. of nucleotides)
 
-2. Luria-Delbruck experiment - Poisson process
+2. [Luria-Delbruck experiment](http://linkinghub.elsevier.com/retrieve/pii/S0025556499000450)
     - qualtitave reasoning
     - quantitative and/or simulations
-    - if you increase the window of time, what happens? what dist look like and why?
+    - if you increase the window of time, what happens? what distribution look like and why?
+    - what's the relation between the rate of mutation and parameter of the distribution (of mutations in a given amount of time) obtained?
 
 3. What is mean/median/mode for: 
     - a [bimodal distribution] (https://en.wikipedia.org/wiki/Multimodal_distribution)
-    - density chart on a random shape
     - uniform distribution (go back to the dice question)
-    - uniform, Gaussian  (simulate them and find the mean/median/mode?)
+    - Gaussian distribution (simulate them and find the mean/median/mode?)
 
 Sorry for the lack of detail. We are unable to attach images successfully on the website. So we are resorting to providing (hyper)links to the terms.
 
