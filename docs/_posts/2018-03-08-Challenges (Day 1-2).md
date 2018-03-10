@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Challenges 1: On probability
+title: Challenges 1 - On probability
 date:   2018-03-08 16:00:00 +0530
 categories: ["challenges"]
 ---
