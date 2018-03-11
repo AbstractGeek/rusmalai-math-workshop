@@ -1,3 +1,10 @@
+---
+layout: post
+title: Challenges 1 - On probability
+date:   2018-03-08 16:00:00 +0530
+categories: ["challenges"]
+---
+
 Feel free to try out any, all or none of the exercises below. If you do try some or all, feel free to send your thoughts/results and discuss with Dinesh/Krishnan.
 
 1.  Probability of 2 genetic sequences matching
